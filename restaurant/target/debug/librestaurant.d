@@ -1,1 +1,0 @@
-/Users/katoukenta/go/github.com/tatane616/rust-tutorial/restaurant/target/debug/librestaurant.rlib: /Users/katoukenta/go/github.com/tatane616/rust-tutorial/restaurant/src/front_of_house/hosting.rs /Users/katoukenta/go/github.com/tatane616/rust-tutorial/restaurant/src/front_of_house.rs /Users/katoukenta/go/github.com/tatane616/rust-tutorial/restaurant/src/lib.rs
